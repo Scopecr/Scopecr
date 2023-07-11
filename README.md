@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Programing
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Cyber Security
-- 📫 How to reach me ... wjrcarrin@gmail.com
+- 📫 How to reach me ... wjrcarrion@gmail.com
 -  
 <!---
 Scopecr/Scopecr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
