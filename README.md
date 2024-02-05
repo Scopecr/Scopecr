@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/Scopecr?style=plastic)
+
 - 👋 Hi, I’m Walter Carrion
 - 👀 I’m interested in Cyber Security
 - 💞️ I’m looking to collaborate on  Cyber Security
